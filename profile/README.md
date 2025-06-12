@@ -24,7 +24,7 @@
 
 ## 🖼 Preview Screenshots
 
-![OP Auto Clicker Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4zxYFpc_vtO5g85DGTT6uzWALW1_MpJpoA&s)  
+![OP Auto Clicker Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRuH-cgfmItksX-bjCKpn7zc6xgGn31Bga7w&s)  
 *Main dashboard showing interval, click count, and location options*
 
 ---
